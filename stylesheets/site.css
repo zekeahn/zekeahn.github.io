@@ -12,3 +12,8 @@ p {
   border-bottom: 3px solid #F1F1F1;
   width: 30%;
   padding-bottom: 20px; }
+
+a {
+  font-family: Raleway;
+  font-size: 15px;
+  text-decoration: underline; }
